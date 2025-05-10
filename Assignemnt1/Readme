@@ -1,0 +1,77 @@
+# Python Programs – Assignment 1
+
+This repository contains Python programs for logic-building practice. Each problem is implemented in a dedicated `.py` file using the naming convention:
+
+- `A1` stands for Assignment 1  
+- `Q1`, `Q2`, etc., indicate the question number  
+
+---
+
+## ✅ Coding Standards Followed
+
+- Function-based design for each program  
+- Clean and meaningful variable names  
+- Input/output is handled properly  
+- Each logic is encapsulated in a separate function  
+- Code adheres to PEP8 standards for readability  
+
+---
+
+## 📋 Problem Descriptions
+
+### `A1Q1.py` – Display Static Message  
+Defines a function that prints a greeting or message to the console.
+
+---
+
+### `A1Q2.py` – Even or Odd Checker  
+Implements a function that accepts an integer and prints whether it is even or odd.
+
+---
+
+### `A1Q3.py` – Addition of Two Numbers  
+Defines a function that takes two numbers as input and returns their sum.
+
+---
+
+### `A1Q4.py` – Repeated Text Output  
+Prints a specific word multiple times using a loop.
+
+---
+
+### `A1Q5.py` – Countdown Sequence  
+Displays a sequence of numbers in descending order.
+
+---
+
+### `A1Q6.py` – Number Sign Classification  
+Determines whether a given number is positive, negative, or zero.
+
+---
+
+### `A1Q7.py` – Divisibility Check  
+Checks if a number is divisible by a specific value (e.g., 5) and returns a boolean result.
+
+---
+
+### `A1Q8.py` – Pattern Printing  
+Prints a sequence of symbols (`*`) equal to the input number.
+
+---
+
+### `A1Q9.py` – Even Number Series  
+Displays the first ten even numbers in sequence.
+
+---
+
+### `A1Q10.py` – Name Length Counter  
+Accepts a string input (name) and prints the number of characters in it.
+
+---
+
+## ▶️ How to Run
+
+To execute any of the files, run the following command in your terminal:
+
+```bash
+python A1Q3.py
