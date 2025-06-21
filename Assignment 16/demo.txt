@@ -1,0 +1,8 @@
+This is short.
+Python is powerful and easy to learn.
+Hello world.
+You are doing a great job, keep going!
+AI is the future of many industries.
+Read every line carefully and understand it.
+Hi.
+{'q': [1], 'w': [2], 'e3': [3]}

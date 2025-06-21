@@ -1,0 +1,7 @@
+
+
+Files Copied From C:\Users\Admin\Desktop\Assigenment19\sample to C:\Users\Admin\Desktop\Assigenment19\CopyOFsample
+C:\Users\Admin\Desktop\Assigenment19\sample\demo.txt
+C:\Users\Admin\Desktop\Assigenment19\sample\hello.txt
+C:\Users\Admin\Desktop\Assigenment19\sample\str.txt
+Total Number of Files Copied are : 3

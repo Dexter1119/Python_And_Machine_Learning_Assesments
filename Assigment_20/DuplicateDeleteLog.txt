@@ -1,0 +1,12 @@
+
+
+Deleted Files in the directory:C:\Users\Admin\Desktop\Assigment_20\sample
+Deleted File Name:C:\Users\Admin\Desktop\Assigment_20\sample\hello.txt
+Deleted File Name:C:\Users\Admin\Desktop\Assigment_20\sample\str.txt
+Number Of Deleted Files are: 2
+
+
+Deleted Files in the directory:C:\Users\Admin\Desktop\Assigment_20\sample
+Deleted File Name:C:\Users\Admin\Desktop\Assigment_20\sample\hello.txt
+Deleted File Name:C:\Users\Admin\Desktop\Assigment_20\sample\str.txt
+The Time required for the execution is :0.0012412071228027344Number Of Deleted Files are: 2

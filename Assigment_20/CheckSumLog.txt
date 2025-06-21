@@ -1,0 +1,12 @@
+
+
+CheckSum of the file in the directory:C:\Users\Admin\Desktop\Assigment_20\sample
+File Name:demo.txt
+CheckSum:d41d8cd98f00b204e9800998ecf8427e
+
+File Name:hello.txt
+CheckSum:d41d8cd98f00b204e9800998ecf8427e
+
+File Name:str.txt
+CheckSum:d41d8cd98f00b204e9800998ecf8427e
+

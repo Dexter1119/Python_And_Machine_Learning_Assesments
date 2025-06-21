@@ -1,0 +1,12 @@
+
+
+Duplicate files in the directory:C:\Users\Admin\Desktop\Assigment_20\sample
+
+
+Duplicate files in the directory:C:\Users\Admin\Desktop\Assigment_20\sample
+
+
+Duplicate files in the directory:C:\Users\Admin\Desktop\Assigment_20\sample
+Duplicate File Name:C:\Users\Admin\Desktop\Assigment_20\sample\hello.txt
+Duplicate File Name:C:\Users\Admin\Desktop\Assigment_20\sample\str.txt
+Number Of Duplicate Files are: 2

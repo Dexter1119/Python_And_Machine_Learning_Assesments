@@ -1,0 +1,13 @@
+Renamed .txt Files in the Given Directory:
+C:\Users\Admin\Desktop\Assigenment 19\sample\demo.txt to 	C:\Users\Admin\Desktop\Assigenment 19\sample\demo.doc
+C:\Users\Admin\Desktop\Assigenment 19\sample\hello.txt to 	C:\Users\Admin\Desktop\Assigenment 19\sample\hello.doc
+C:\Users\Admin\Desktop\Assigenment 19\sample\str.txt to 	C:\Users\Admin\Desktop\Assigenment 19\sample\str.doc
+Total Number of .txt Files renamed to .doc : 3
+
+
+
+Renamed .doc Files in the Given Directory:
+C:\Users\Admin\Desktop\Assigenment 19\sample\demo.doc to 	C:\Users\Admin\Desktop\Assigenment 19\sample\demo.txt
+C:\Users\Admin\Desktop\Assigenment 19\sample\hello.doc to 	C:\Users\Admin\Desktop\Assigenment 19\sample\hello.txt
+C:\Users\Admin\Desktop\Assigenment 19\sample\str.doc to 	C:\Users\Admin\Desktop\Assigenment 19\sample\str.txt
+Total Number of .doc Files renamed to .txt : 3
