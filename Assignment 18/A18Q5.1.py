@@ -47,6 +47,7 @@ def CountFrequency(path , str,BufferSize = 1024):
     
     return iCount
 
+#"hello my name is pradhumnya" == ["hello","my"....]
 
 
 def main():
